@@ -86,7 +86,7 @@ namespace Abstraktioner.Model
                     if (animal.age >= 15)
                     {
 
-                        animalsAge.Add(animal);
+                        animalsAge.Add(animalsAge);
                     }
                 }
             }
